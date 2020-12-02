@@ -1,0 +1,17 @@
+.box{
+	width: 100px;
+	height: 100px;
+	
+	margin-top:10px;
+}
+.box2{
+	background-color: gray;
+	border: 2px solid black;
+}
+.box3{
+	min-height: 100px;
+}
+.box4{
+	width: 600px;
+	height: 250px;
+}
